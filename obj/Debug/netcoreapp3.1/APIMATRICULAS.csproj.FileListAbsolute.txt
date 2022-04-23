@@ -1,0 +1,6 @@
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.csproj.AssemblyReference.cache
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.AssemblyInfoInputs.cache
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.AssemblyInfo.cs
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.csproj.CoreCompileInputs.cache
+C:\Intel\Moviles_III\API_NET\API\APIMATRICULAS\obj\Debug\netcoreapp3.1\APIMATRICULAS.MvcApplicationPartsAssemblyInfo.cache
